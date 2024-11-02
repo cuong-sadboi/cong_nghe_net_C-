@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\kiemtracau1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A51F82C-1973-4482-93FA-13890D89F57A}|kiemtracau1\\kiemtracau1.csproj|c:\\users\\admin\\source\\repos\\kiemtracau1\\kiemtracau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A51F82C-1973-4482-93FA-13890D89F57A}|kiemtracau1\\kiemtracau1.csproj|solutionrelative:kiemtracau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\kiemtracau1\\kiemtracau1\\Program.cs",
+              "RelativeDocumentMoniker": "kiemtracau1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\kiemtracau1\\kiemtracau1\\Program.cs",
+              "RelativeToolTip": "kiemtracau1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:30:48.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

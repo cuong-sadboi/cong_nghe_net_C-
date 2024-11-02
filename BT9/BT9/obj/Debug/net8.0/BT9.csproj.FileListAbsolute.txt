@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BT9\BT9\bin\Debug\net8.0\BT9.exe
+C:\Users\Admin\source\repos\BT9\BT9\bin\Debug\net8.0\BT9.deps.json
+C:\Users\Admin\source\repos\BT9\BT9\bin\Debug\net8.0\BT9.runtimeconfig.json
+C:\Users\Admin\source\repos\BT9\BT9\bin\Debug\net8.0\BT9.dll
+C:\Users\Admin\source\repos\BT9\BT9\bin\Debug\net8.0\BT9.pdb
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.dll
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\refint\BT9.dll
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.pdb
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\BT9.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BT9\BT9\obj\Debug\net8.0\ref\BT9.dll

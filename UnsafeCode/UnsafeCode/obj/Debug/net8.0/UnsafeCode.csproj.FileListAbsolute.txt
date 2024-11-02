@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\bin\Debug\net8.0\UnsafeCode.exe
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\bin\Debug\net8.0\UnsafeCode.deps.json
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\bin\Debug\net8.0\UnsafeCode.runtimeconfig.json
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\bin\Debug\net8.0\UnsafeCode.dll
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\bin\Debug\net8.0\UnsafeCode.pdb
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.dll
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\refint\UnsafeCode.dll
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.pdb
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\UnsafeCode.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UnsafeCode\UnsafeCode\obj\Debug\net8.0\ref\UnsafeCode.dll

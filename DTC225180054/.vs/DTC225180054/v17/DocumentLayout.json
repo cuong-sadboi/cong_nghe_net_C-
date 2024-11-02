@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|C:\\Users\\Admin\\source\\repos\\DTC225180054\\dtc225180054\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\migrations\\20241010094814_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\migrations\\20241010094814_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\dtc225180054context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\dtc225180054context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|c:\\users\\admin\\source\\repos\\dtc225180054\\dtc225180054\\dtc225180054.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3AB20D9F-DC6B-435F-8E84-B913DFFB63B9}|DTC225180054\\DTC225180054.csproj|solutionrelative:dtc225180054\\dtc225180054.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.resx",
+              "RelativeDocumentMoniker": "DTC225180054\\Form1.resx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.resx*",
+              "RelativeToolTip": "DTC225180054\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-17T07:31:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.cs*",
+              "RelativeToolTip": "DTC225180054\\Form1.cs*",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:53:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.cs [Design]*",
+              "RelativeToolTip": "DTC225180054\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:32:55.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241010094814_initCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Migrations\\20241010094814_initCreate.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Migrations\\20241010094814_initCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Migrations\\20241010094814_initCreate.cs",
+              "RelativeToolTip": "DTC225180054\\Migrations\\20241010094814_initCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:53:44.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTC225180054Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\DTC225180054Context.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\DTC225180054Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\DTC225180054Context.cs",
+              "RelativeToolTip": "DTC225180054\\DTC225180054Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:23:41.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Product.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Product.cs",
+              "RelativeToolTip": "DTC225180054\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:47:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Program.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Program.cs",
+              "RelativeToolTip": "DTC225180054\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:09:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTC225180054",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\DTC225180054.csproj",
+              "RelativeDocumentMoniker": "DTC225180054\\DTC225180054.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\DTC225180054.csproj",
+              "RelativeToolTip": "DTC225180054\\DTC225180054.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:30:47.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DTC225180054\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DTC225180054\\DTC225180054\\Form1.Designer.cs*",
+              "RelativeToolTip": "DTC225180054\\Form1.Designer.cs*",
+              "ViewState": "AQIAALIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:07:37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

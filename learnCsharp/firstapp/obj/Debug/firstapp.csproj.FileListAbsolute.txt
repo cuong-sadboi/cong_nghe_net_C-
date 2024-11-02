@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\learnCsharp\firstapp\bin\Debug\firstapp.exe.config
+C:\Users\Admin\source\repos\learnCsharp\firstapp\bin\Debug\firstapp.exe
+C:\Users\Admin\source\repos\learnCsharp\firstapp\bin\Debug\firstapp.pdb
+C:\Users\Admin\source\repos\learnCsharp\firstapp\obj\Debug\firstapp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\learnCsharp\firstapp\obj\Debug\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\learnCsharp\firstapp\obj\Debug\firstapp.exe
+C:\Users\Admin\source\repos\learnCsharp\firstapp\obj\Debug\firstapp.pdb

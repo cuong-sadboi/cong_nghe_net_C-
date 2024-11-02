@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\testfilepublic\DTC225180054.exe
+C:\Users\Admin\Desktop\testfilepublic\DTC225180054.dll
+C:\Users\Admin\Desktop\testfilepublic\DTC225180054.deps.json
+C:\Users\Admin\Desktop\testfilepublic\DTC225180054.runtimeconfig.json
+C:\Users\Admin\Desktop\testfilepublic\DTC225180054.pdb

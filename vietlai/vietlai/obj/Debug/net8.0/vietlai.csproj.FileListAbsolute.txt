@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\vietlai\vietlai\bin\Debug\net8.0\vietlai.exe
+C:\Users\Admin\source\repos\vietlai\vietlai\bin\Debug\net8.0\vietlai.deps.json
+C:\Users\Admin\source\repos\vietlai\vietlai\bin\Debug\net8.0\vietlai.runtimeconfig.json
+C:\Users\Admin\source\repos\vietlai\vietlai\bin\Debug\net8.0\vietlai.dll
+C:\Users\Admin\source\repos\vietlai\vietlai\bin\Debug\net8.0\vietlai.pdb
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.AssemblyInfo.cs
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.dll
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\refint\vietlai.dll
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.pdb
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\vietlai.genruntimeconfig.cache
+C:\Users\Admin\source\repos\vietlai\vietlai\obj\Debug\net8.0\ref\vietlai.dll

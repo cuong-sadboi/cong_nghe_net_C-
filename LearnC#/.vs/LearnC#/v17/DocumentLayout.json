@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\LearnC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B2B081-960F-4C49-B86A-A0397D47A58C}|LearnC#\\LearnC#.csproj|c:\\users\\admin\\source\\repos\\learnc#\\learnc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B2B081-960F-4C49-B86A-A0397D47A58C}|LearnC#\\LearnC#.csproj|solutionrelative:learnc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\LearnC#\\LearnC#\\Program.cs",
+              "RelativeDocumentMoniker": "LearnC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\LearnC#\\LearnC#\\Program.cs",
+              "RelativeToolTip": "LearnC#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:02:01.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

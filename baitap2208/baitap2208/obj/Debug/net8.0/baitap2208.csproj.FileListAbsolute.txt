@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.AssemblyInfo.cs
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\baitap2208\baitap2208\bin\Debug\net8.0\baitap2208.exe
+C:\Users\Admin\source\repos\baitap2208\baitap2208\bin\Debug\net8.0\baitap2208.deps.json
+C:\Users\Admin\source\repos\baitap2208\baitap2208\bin\Debug\net8.0\baitap2208.runtimeconfig.json
+C:\Users\Admin\source\repos\baitap2208\baitap2208\bin\Debug\net8.0\baitap2208.dll
+C:\Users\Admin\source\repos\baitap2208\baitap2208\bin\Debug\net8.0\baitap2208.pdb
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.dll
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\refint\baitap2208.dll
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.pdb
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\baitap2208.genruntimeconfig.cache
+C:\Users\Admin\source\repos\baitap2208\baitap2208\obj\Debug\net8.0\ref\baitap2208.dll

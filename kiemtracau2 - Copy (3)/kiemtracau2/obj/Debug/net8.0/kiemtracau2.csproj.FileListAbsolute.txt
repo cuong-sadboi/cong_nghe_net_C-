@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\bin\Debug\net8.0\kiemtracau2.exe
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\bin\Debug\net8.0\kiemtracau2.deps.json
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\bin\Debug\net8.0\kiemtracau2.runtimeconfig.json
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\bin\Debug\net8.0\kiemtracau2.dll
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\bin\Debug\net8.0\kiemtracau2.pdb
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.dll
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\refint\kiemtracau2.dll
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.pdb
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\kiemtracau2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\kiemtracau2\kiemtracau2\obj\Debug\net8.0\ref\kiemtracau2.dll

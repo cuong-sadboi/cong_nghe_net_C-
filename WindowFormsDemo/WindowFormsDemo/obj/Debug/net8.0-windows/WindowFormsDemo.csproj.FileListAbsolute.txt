@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\bin\Debug\net8.0-windows\WindowFormsDemo.exe
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\bin\Debug\net8.0-windows\WindowFormsDemo.deps.json
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\bin\Debug\net8.0-windows\WindowFormsDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\bin\Debug\net8.0-windows\WindowFormsDemo.dll
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\bin\Debug\net8.0-windows\WindowFormsDemo.pdb
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.Form1.resources
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.dll
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\refint\WindowFormsDemo.dll
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.pdb
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\WindowFormsDemo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WindowFormsDemo\WindowFormsDemo\obj\Debug\net8.0-windows\ref\WindowFormsDemo.dll

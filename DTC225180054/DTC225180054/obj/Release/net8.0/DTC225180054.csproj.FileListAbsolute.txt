@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\bin\Release\net8.0\DTC225180054.exe
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\bin\Release\net8.0\DTC225180054.deps.json
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\bin\Release\net8.0\DTC225180054.runtimeconfig.json
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\bin\Release\net8.0\DTC225180054.dll
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\bin\Release\net8.0\DTC225180054.pdb
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.dll
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\refint\DTC225180054.dll
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.pdb
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\DTC225180054.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DTC225180054\DTC225180054\obj\Release\net8.0\ref\DTC225180054.dll
